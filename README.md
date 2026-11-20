@@ -2,7 +2,9 @@
 
 The website for grayrubyea.com.au. Plain HTML and CSS, hosted on Netlify.
 
-- `index.html` is the Home page; `services/`, `about/` and `contact/` hold the other pages
-- `css/styles.css` holds the colours and layout
-- `images/` holds the logos and photos
+All files sit in this one folder (no sub-folders), so updates can be uploaded straight to GitHub.
+
+- `index.html` Home, `services.html`, `about.html`, `contact.html`, `thanks.html` (after an enquiry is sent), `404.html` (page not found)
+- `styles.css` colours and layout, `site.js` mobile menu
+- `.jpg` / `.png` files are the logos and photos
 - Enquiries from the Contact page form arrive through Netlify Forms
